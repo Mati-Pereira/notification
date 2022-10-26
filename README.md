@@ -19,4 +19,4 @@ Instalar e rodar o projeto no porta 5173.
     
 ## Demo
 
-(Site)[https://notification-simple.netlify.app/]
+[Site](https://notification-simple.netlify.app/)
