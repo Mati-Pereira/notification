@@ -17,3 +17,6 @@ Instalar e rodar o projeto no porta 5173.
   yarn dev   # Entra em modo dev no porta 5173
 ```
     
+## Demo
+
+(Site)[https://notification-simple.netlify.app/]
